@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B9B6B8&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Jorge+Júnior;I'm+backend+and+frontend+developer)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorgepereirajunior&show_icons=true&count_private=true&hide_border=false&title_color=B9B6B8&icon_color=B9B6B8&text_color=c9d1d9&bg_color=0d1117" alt="Jorge github stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepereirajunior&layout=compact&hide_border=false&title_color=B9B6B8&text_color=B9B6B8&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorgepereirajunior&show_icons=true&count_private=true&hide_border=true&title_color=B9B6B8&icon_color=B9B6B8&text_color=c9d1d9&bg_color=0d1117" alt="Jorge github stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgepereirajunior&layout=compact&hide_border=true&title_color=B9B6B8&text_color=B9B6B8&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jorgepereirajunior&bg_color=0d1117&color=ffffff&line=ffffff&point=9e9e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
